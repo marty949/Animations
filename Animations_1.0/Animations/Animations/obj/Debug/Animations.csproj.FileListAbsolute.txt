@@ -1,0 +1,8 @@
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\bin\Debug\Animations.exe.config
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\bin\Debug\Animations.exe
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\bin\Debug\Animations.pdb
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\obj\Debug\Animations.csprojResolveAssemblyReference.cache
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\obj\Debug\Animations.MainForm.resources
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\obj\Debug\Animations.csproj.GenerateResource.Cache
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\obj\Debug\Animations.exe
+C:\Users\marti\OneDrive\Plocha\ZP_AIK2\Animations\Animations\Animations\obj\Debug\Animations.pdb
